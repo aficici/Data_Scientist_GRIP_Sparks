@@ -26,6 +26,6 @@ In this Task we have improve our LinkedIn profile by adding our domain related c
 
 # 1. Host the code on GitHub Repository (public). Record the code and
 output in a video. Post the video on YouTube
-# 2. Share links of code (GitHub) and video (YouTube) as a post on
+#2. Share links of code (GitHub) and video (YouTube) as a post on
 YOUR LinkedIn profile, not TSF Network.
 3. Submit the LinkedIn link in Task Submission Form when shared.
