@@ -1,6 +1,6 @@
 
 # Data_Scientist_GRIP_Sparks
-[logo_small](https://user-images.githubusercontent.com/60574608/110419669-cc269700-8067-11eb-8099-d0e3eb557d53.png)
+![logo_small](https://user-images.githubusercontent.com/60574608/110419669-cc269700-8067-11eb-8099-d0e3eb557d53.png)
 ## The Sparks Foundation Internship Program
 ## GRADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP)
 
