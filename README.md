@@ -1,3 +1,4 @@
+![logo_small](https://user-images.githubusercontent.com/60574608/110419669-cc269700-8067-11eb-8099-d0e3eb557d53.png)
 # Data_Scientist_GRIP_Sparks
 
 ## The Sparks Foundation Internship Program
