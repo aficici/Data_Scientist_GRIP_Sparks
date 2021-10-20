@@ -11,7 +11,7 @@
 ● As a security/defense analyst, try to find out the hot zone of terrorism.
 
 ## Task 5 : Exploratory Data Analysis - Sports
-As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
+● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 
 ## Task 6 : Prediction using Decision Tree Algorithm
-As a data scientist/analysts, build a model to predict the right classes.
+● As a data scientist/analysts, build a model to predict the right classes.
