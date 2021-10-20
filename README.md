@@ -10,6 +10,8 @@ The Sparks Foundation offers Internship program to the students in Data Science 
 In this Task we have improve our LinkedIn profile by adding our domain related cover photo, a pleasent Profile photo and have to send connection requests to most of the members of the Sparks Foundation LinkedIn group.
 
 ## Task 1- Prediction using Supervised ML
+## Task 2- Prediction using Unsupervised Machine Learning
+
 
 ● Predict the percentage of an student based on the no. of study hours.
 
