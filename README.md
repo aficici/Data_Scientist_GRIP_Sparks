@@ -13,11 +13,5 @@
 ## Task 5 : Exploratory Data Analysis - Sports
 As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
 
-
-
-● What all business problems you can derive by exploring the data?
-
-
-
-
-
+## Task 6 : Prediction using Decision Tree Algorithm
+As a data scientist/analysts, build a model to predict the right classes.
