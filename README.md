@@ -1,19 +1,9 @@
-
-# Data_Scientist_GRIP_Sparks
-![logo_small](https://user-images.githubusercontent.com/60574608/110419669-cc269700-8067-11eb-8099-d0e3eb557d53.png)
-## The Sparks Foundation Internship Program
-## GRADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP)
-
-The Sparks Foundation offers Internship program to the students in Data Science and Business Analytics.
-
-## LinkedIn Profile Improvement Task:
-In this Task we have improve our LinkedIn profile by adding our domain related cover photo, a pleasent Profile photo and have to send connection requests to most of the members of the Sparks Foundation LinkedIn group.
-
 ## Task 1- Prediction using Supervised ML
 ## Task 2- Prediction using Unsupervised Machine Learning
 
 ## Task 3 - Exploratory Data Analysis - Retail
 As a business manager, try to find out the weak areas where you can work to make more profit.
+
 What all business problems you can derive by exploring the data?
 
 
